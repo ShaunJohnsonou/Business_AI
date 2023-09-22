@@ -1,0 +1,1 @@
+Go to alpha vantage and get you own api key. We are probably not even going to use aplha api because it does not provide info about aouth africa
